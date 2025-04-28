@@ -5,4 +5,4 @@
 - 📫 How to reach me: eng.gabrielsanz@hotmail.com
 - 🌐 Visit my website: [gabrielsanztech.com.br](https://gabrielsanztech.com.br/)
 
-![Gabriel Sanz Tech](https://gabrielsanztech.com.br/wp-content/uploads/2023/08/logo-site.png)
+![Uploading LogoSemFundo.png…]()
