@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @GabrielSelim
 - 👀 I’m interested in Back-End and SQL
-- 🌱 I’m currently working C#, MVC, Asp.net, Api RESTful, JS, React.js, JQuery, Html, SQL Server.
-- 💞️ I’m looking to collaborate on new Projects.
-- 📫 How to reach me eng.gabrielsanz@hotmail.com.
+- 🌱 I’m currently working with C#, MVC, ASP.NET, RESTful APIs, JavaScript, React.js, jQuery, HTML, and SQL Server.
+- 💞️ I’m looking to collaborate on new projects.
+- 📫 How to reach me: eng.gabrielsanz@hotmail.com
+- 🌐 Visit my website: [gabrielsanztech.com.br](https://gabrielsanztech.com.br/)
 
-
-<!---
-GabrielSelim/GabrielSelim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Gabriel Sanz Tech](https://gabrielsanztech.com.br/wp-content/uploads/2023/08/logo-site.png)
